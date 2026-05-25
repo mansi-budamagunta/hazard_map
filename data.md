@@ -10,7 +10,7 @@ We will provide more data used in the model soon.
 <h3 align="center"> Mobility at a glance </h3>
 
 <div id="links-img" align="center">
- <img src="https://buda-magenta.github.io/hazard_map/Network_500_links_thickness.png" alt="top 500 links of in the network">
+ <img src="https://mansi-budamagunta.github.io/hazard_map/Network_500_links_thickness.png" alt="top 500 links of in the network">
 </div>
 
 In the above image, lines represent the connections between cities and their thickness indicates its relative importance – the thicker the line, the more people travel in that route.

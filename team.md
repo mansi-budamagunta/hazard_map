@@ -11,6 +11,6 @@ title: Team
 
 <a href="https://www.researchgate.net/profile/Onkar-Sadekar"> Onkar Sadekar </a>
 
-<a href="https://buda-magenta.github.io/"> Mansi Budamagunta </a>
+<a href="https://mansi-budamagunta.github.io/"> Mansi Budamagunta </a>
 
 All members are from the Physics Department of IISER Pune.

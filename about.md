@@ -23,7 +23,7 @@ Even with an enormous amount of real data and computing resources, making reliab
 
 **What is the science behind this hazard map ?**<br>
 The basic idea behind the algorithm is fairly simple : mobility of the people is responsible for the spread of infection. Then, if mobility patterns of people are known, the geographical spread of infection can be mapped out.<br>
-A hazard rank is assigned using a combination of mathematical models and use of transportation and mobility data. A compartmental infectious disease spreading model, the SIR model, augmented with India's long distance transportation network and real mobility data is employed for this purpose. Data from three major modes of transport - trains, air, and roads - are used in this work. However, the local mobility within a city or district is not taken into account. For a pictorial view of the algorithm, see [how it works](https://buda-magenta.github.io/hazard_map/how-it-works).
+A hazard rank is assigned using a combination of mathematical models and use of transportation and mobility data. A compartmental infectious disease spreading model, the SIR model, augmented with India's long distance transportation network and real mobility data is employed for this purpose. Data from three major modes of transport - trains, air, and roads - are used in this work. However, the local mobility within a city or district is not taken into account. For a pictorial view of the algorithm, see [how it works](https://mansi-budamagunta.github.io/hazard_map/how-it-works).
 
 **How do I find out more details ?**<br>
 For a technical description of the hazard map project and work, please read our paper at arXiv link. As of May 2021, this paper has been submitted for publication, but is not published yet.

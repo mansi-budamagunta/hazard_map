@@ -28,7 +28,7 @@
   geo_json_layer.addTo(map);
   $.ajax({
     dataType: "json",
-    url: "https://buda-magenta.github.io/hazard_map//india_states_modified1.geojson",
+    url: "https://mansi-budamagunta.github.io/hazard_map//india_states_modified1.geojson",
     success: function(data) {
       $(data.features).each(function(key, data) {
         geo_json_layer.addData(data);
