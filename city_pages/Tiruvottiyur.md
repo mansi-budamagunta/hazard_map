@@ -4,14 +4,14 @@ title: "Outbreak location: Tiruvottiyur"
 ---
 <div class="flex-container">
 <div class="flex-item-left" id="mapid">
-<script src="https://mansi-budamagunta.github.io/hazard_map/load_map.js"></script>
+<script src="/hazard_map/load_map.js"></script>
 
 <script>
 var marker_outbreak = L.marker([13.156387, 80.300528],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Tiruvottiyur").openTooltip();
 
 var circle_1 = L.circle([13.083694, 80.270186], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 194548, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Chennai<br>rank: 1<br>hazard index: 0.194548")
-circle_1.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chennai">Chennai</a>')
+circle_1.bindPopup('<a href="/hazard_map/city_pages/Chennai">Chennai</a>')
 
 var circle_2 = L.circle([12.929903, 80.111823], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 127496, "stroke": true, "weight": 3}).addTo(map);
 circle_2.bindTooltip("Tambaram<br>rank: 2<br>hazard index: 0.127497")

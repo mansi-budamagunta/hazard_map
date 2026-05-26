@@ -49,7 +49,7 @@ crossorigin=""></script>
   geo_json_layer.addTo(map);
   $.ajax({
     dataType: "json",
-    url: "https://mansi-budamagunta.github.io/hazard_map//india_states_modified1.geojson",
+    url: "/hazard_map//india_states_modified1.geojson",
     success: function(data) {
       $(data.features).each(function(key, data) {
         geo_json_layer.addData(data);
@@ -61,7 +61,7 @@ crossorigin=""></script>
     [12.979, 77.591],
     {"autoPan": true}
   ).addTo(map);
- marker_outbreak.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/{city name}">{city as outbreak}</a>')
+ marker_outbreak.bindPopup('<a href="/hazard_map/{city name}">{city as outbreak}</a>')
  marker_outbreak.bindTooltip("Bangalore");
 
  var circle_0 = L.circle([12.305183, 76.655361], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 188032, "stroke": true, "weight": 3}).addTo(map);
