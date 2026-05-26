@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Madurai">Madurai</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Barshi">Barshi</a></td>
+<td><a href="/hazard_map/city_pages/Barshi">Barshi</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Latur">Latur</a></td>
+<td><a href="/hazard_map/city_pages/Latur">Latur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Solapur">Solapur</a></td>
+<td><a href="/hazard_map/city_pages/Solapur">Solapur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
+<td><a href="/hazard_map/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gulbarga">Gulbarga</a></td>
+<td><a href="/hazard_map/city_pages/Gulbarga">Gulbarga</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Parbhani">Parbhani</a></td>
+<td><a href="/hazard_map/city_pages/Parbhani">Parbhani</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ahmadnagar">Ahmadnagar</a></td>
+<td><a href="/hazard_map/city_pages/Ahmadnagar">Ahmadnagar</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bidar">Bidar</a></td>
+<td><a href="/hazard_map/city_pages/Bidar">Bidar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalna">Jalna</a></td>
+<td><a href="/hazard_map/city_pages/Jalna">Jalna</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalgaon">Jalgaon</a></td>
+<td><a href="/hazard_map/city_pages/Jalgaon">Jalgaon</a></td>
 </tr>
 
 </table>

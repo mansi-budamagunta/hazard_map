@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Coimbatore">Coimbatore</a>
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
+<td><a href="/hazard_map/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hyderabad">Hyderabad</a></td>
+<td><a href="/hazard_map/city_pages/Hyderabad">Hyderabad</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Karimnagar">Karimnagar</a></td>
+<td><a href="/hazard_map/city_pages/Karimnagar">Karimnagar</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Adilabad">Adilabad</a></td>
+<td><a href="/hazard_map/city_pages/Adilabad">Adilabad</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Pune">Pune</a></td>
+<td><a href="/hazard_map/city_pages/Pune">Pune</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Varanasi">Varanasi</a></td>
+<td><a href="/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Allahabad">Allahabad</a></td>
+<td><a href="/hazard_map/city_pages/Allahabad">Allahabad</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Parbhani">Parbhani</a></td>
+<td><a href="/hazard_map/city_pages/Parbhani">Parbhani</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gorakhpur">Gorakhpur</a></td>
+<td><a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalgaon">Jalgaon</a></td>
+<td><a href="/hazard_map/city_pages/Jalgaon">Jalgaon</a></td>
 </tr>
 
 </table>

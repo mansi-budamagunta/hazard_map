@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Nashik">Nashik</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kharagpur">Kharagpur</a></td>
+<td><a href="/hazard_map/city_pages/Kharagpur">Kharagpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhubaneswar">Bhubaneswar</a></td>
+<td><a href="/hazard_map/city_pages/Bhubaneswar">Bhubaneswar</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Medinipur">Medinipur</a></td>
+<td><a href="/hazard_map/city_pages/Medinipur">Medinipur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Baleshwar">Baleshwar</a></td>
+<td><a href="/hazard_map/city_pages/Baleshwar">Baleshwar</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bidhan_Nagar">Bidhan Nagar</a></td>
+<td><a href="/hazard_map/city_pages/Bidhan_Nagar">Bidhan Nagar</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Barddhaman">Barddhaman</a></td>
+<td><a href="/hazard_map/city_pages/Barddhaman">Barddhaman</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhadrak">Bhadrak</a></td>
+<td><a href="/hazard_map/city_pages/Bhadrak">Bhadrak</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jamshedpur">Jamshedpur</a></td>
+<td><a href="/hazard_map/city_pages/Jamshedpur">Jamshedpur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Puri">Puri</a></td>
+<td><a href="/hazard_map/city_pages/Puri">Puri</a></td>
 </tr>
 
 </table>

@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Balurghat">Balurghat</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhatpara">Bhatpara</a></td>
+<td><a href="/hazard_map/city_pages/Bhatpara">Bhatpara</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Naihati">Naihati</a></td>
+<td><a href="/hazard_map/city_pages/Naihati">Naihati</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Barrackpur">Barrackpur</a></td>
+<td><a href="/hazard_map/city_pages/Barrackpur">Barrackpur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Titagarh">Titagarh</a></td>
+<td><a href="/hazard_map/city_pages/Titagarh">Titagarh</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Khardaha">Khardaha</a></td>
+<td><a href="/hazard_map/city_pages/Khardaha">Khardaha</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanchrapara">Kanchrapara</a></td>
+<td><a href="/hazard_map/city_pages/Kanchrapara">Kanchrapara</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Halisahar">Halisahar</a></td>
+<td><a href="/hazard_map/city_pages/Halisahar">Halisahar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Asansol">Asansol</a></td>
+<td><a href="/hazard_map/city_pages/Asansol">Asansol</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Krishnanagar">Krishnanagar</a></td>
+<td><a href="/hazard_map/city_pages/Krishnanagar">Krishnanagar</a></td>
 </tr>
 
 </table>

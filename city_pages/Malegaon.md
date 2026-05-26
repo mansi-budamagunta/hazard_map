@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Lucknow">Lucknow</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gondiya">Gondiya</a></td>
+<td><a href="/hazard_map/city_pages/Gondiya">Gondiya</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Aurangabad">Aurangabad</a></td>
+<td><a href="/hazard_map/city_pages/Aurangabad">Aurangabad</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalgaon">Jalgaon</a></td>
+<td><a href="/hazard_map/city_pages/Jalgaon">Jalgaon</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Akola">Akola</a></td>
+<td><a href="/hazard_map/city_pages/Akola">Akola</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Amravati">Amravati</a></td>
+<td><a href="/hazard_map/city_pages/Amravati">Amravati</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
+<td><a href="/hazard_map/city_pages/Nanded_Waghala">Nanded Waghala</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Parbhani">Parbhani</a></td>
+<td><a href="/hazard_map/city_pages/Parbhani">Parbhani</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalna">Jalna</a></td>
+<td><a href="/hazard_map/city_pages/Jalna">Jalna</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nashik">Nashik</a></td>
+<td><a href="/hazard_map/city_pages/Nashik">Nashik</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhusawal">Bhusawal</a></td>
+<td><a href="/hazard_map/city_pages/Bhusawal">Bhusawal</a></td>
 </tr>
 
 </table>

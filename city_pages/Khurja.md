@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Sitapur">Sitapur</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Meerut">Meerut</a></td>
+<td><a href="/hazard_map/city_pages/Meerut">Meerut</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hapur">Hapur</a></td>
+<td><a href="/hazard_map/city_pages/Hapur">Hapur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bulandshahr">Bulandshahr</a></td>
+<td><a href="/hazard_map/city_pages/Bulandshahr">Bulandshahr</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Saharanpur">Saharanpur</a></td>
+<td><a href="/hazard_map/city_pages/Saharanpur">Saharanpur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bareilly">Bareilly</a></td>
+<td><a href="/hazard_map/city_pages/Bareilly">Bareilly</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Muzaffarnagar">Muzaffarnagar</a></td>
+<td><a href="/hazard_map/city_pages/Muzaffarnagar">Muzaffarnagar</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanpur">Kanpur</a></td>
+<td><a href="/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Dehradun">Dehradun</a></td>
+<td><a href="/hazard_map/city_pages/Dehradun">Dehradun</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Agra">Agra</a></td>
+<td><a href="/hazard_map/city_pages/Agra">Agra</a></td>
 </tr>
 
 </table>

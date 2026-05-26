@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Indore">Indore</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gorakhpur">Gorakhpur</a></td>
+<td><a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bettiah">Bettiah</a></td>
+<td><a href="/hazard_map/city_pages/Bettiah">Bettiah</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Patna">Patna</a></td>
+<td><a href="/hazard_map/city_pages/Patna">Patna</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Muzaffarpur">Muzaffarpur</a></td>
+<td><a href="/hazard_map/city_pages/Muzaffarpur">Muzaffarpur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Varanasi">Varanasi</a></td>
+<td><a href="/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lakhimpur">Lakhimpur</a></td>
+<td><a href="/hazard_map/city_pages/Lakhimpur">Lakhimpur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Motihari">Motihari</a></td>
+<td><a href="/hazard_map/city_pages/Motihari">Motihari</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lucknow">Lucknow</a></td>
+<td><a href="/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mumbai">Mumbai</a></td>
+<td><a href="/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Siwan">Siwan</a></td>
+<td><a href="/hazard_map/city_pages/Siwan">Siwan</a></td>
 </tr>
 
 </table>

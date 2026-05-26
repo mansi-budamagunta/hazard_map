@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Dehradun">Dehradun</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Muzaffarpur">Muzaffarpur</a></td>
+<td><a href="/hazard_map/city_pages/Muzaffarpur">Muzaffarpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gorakhpur">Gorakhpur</a></td>
+<td><a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Motihari">Motihari</a></td>
+<td><a href="/hazard_map/city_pages/Motihari">Motihari</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Patna">Patna</a></td>
+<td><a href="/hazard_map/city_pages/Patna">Patna</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bagaha">Bagaha</a></td>
+<td><a href="/hazard_map/city_pages/Bagaha">Bagaha</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Darbhanga">Darbhanga</a></td>
+<td><a href="/hazard_map/city_pages/Darbhanga">Darbhanga</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nizamabad">Nizamabad</a></td>
+<td><a href="/hazard_map/city_pages/Nizamabad">Nizamabad</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Biharsharif">Biharsharif</a></td>
+<td><a href="/hazard_map/city_pages/Biharsharif">Biharsharif</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Maunath_Bhanjan">Maunath Bhanjan</a></td>
+<td><a href="/hazard_map/city_pages/Maunath_Bhanjan">Maunath Bhanjan</a></td>
 </tr>
 
 </table>

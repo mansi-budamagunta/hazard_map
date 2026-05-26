@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Kishanganj">Kishanganj</a>
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Baleshwar">Baleshwar</a></td>
+<td><a href="/hazard_map/city_pages/Baleshwar">Baleshwar</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Sambalpur">Sambalpur</a></td>
+<td><a href="/hazard_map/city_pages/Sambalpur">Sambalpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Visakhapatnam">Visakhapatnam</a></td>
+<td><a href="/hazard_map/city_pages/Visakhapatnam">Visakhapatnam</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jagdalpur">Jagdalpur</a></td>
+<td><a href="/hazard_map/city_pages/Jagdalpur">Jagdalpur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhubaneswar">Bhubaneswar</a></td>
+<td><a href="/hazard_map/city_pages/Bhubaneswar">Bhubaneswar</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Cuttack">Cuttack</a></td>
+<td><a href="/hazard_map/city_pages/Cuttack">Cuttack</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Vizianagaram">Vizianagaram</a></td>
+<td><a href="/hazard_map/city_pages/Vizianagaram">Vizianagaram</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kharagpur">Kharagpur</a></td>
+<td><a href="/hazard_map/city_pages/Kharagpur">Kharagpur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhadrak">Bhadrak</a></td>
+<td><a href="/hazard_map/city_pages/Bhadrak">Bhadrak</a></td>
 </tr>
 
 </table>

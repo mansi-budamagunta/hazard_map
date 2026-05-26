@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Vijayawada">Vijayawada</a>
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ajmer">Ajmer</a></td>
+<td><a href="/hazard_map/city_pages/Ajmer">Ajmer</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jaipur">Jaipur</a></td>
+<td><a href="/hazard_map/city_pages/Jaipur">Jaipur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jodhpur">Jodhpur</a></td>
+<td><a href="/hazard_map/city_pages/Jodhpur">Jodhpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kota">Kota</a></td>
+<td><a href="/hazard_map/city_pages/Kota">Kota</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ahmedabad">Ahmedabad</a></td>
+<td><a href="/hazard_map/city_pages/Ahmedabad">Ahmedabad</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Udaipur">Udaipur</a></td>
+<td><a href="/hazard_map/city_pages/Udaipur">Udaipur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Pali">Pali</a></td>
+<td><a href="/hazard_map/city_pages/Pali">Pali</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhilwara">Bhilwara</a></td>
+<td><a href="/hazard_map/city_pages/Bhilwara">Bhilwara</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nimach">Nimach</a></td>
+<td><a href="/hazard_map/city_pages/Nimach">Nimach</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Chittaurgarh">Chittaurgarh</a></td>
+<td><a href="/hazard_map/city_pages/Chittaurgarh">Chittaurgarh</a></td>
 </tr>
 
 </table>

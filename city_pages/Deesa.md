@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Kolar">Kolar</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Palanpur">Palanpur</a></td>
+<td><a href="/hazard_map/city_pages/Palanpur">Palanpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ahmedabad">Ahmedabad</a></td>
+<td><a href="/hazard_map/city_pages/Ahmedabad">Ahmedabad</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gandhidham">Gandhidham</a></td>
+<td><a href="/hazard_map/city_pages/Gandhidham">Gandhidham</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhuj">Bhuj</a></td>
+<td><a href="/hazard_map/city_pages/Bhuj">Bhuj</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jodhpur">Jodhpur</a></td>
+<td><a href="/hazard_map/city_pages/Jodhpur">Jodhpur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mahesana">Mahesana</a></td>
+<td><a href="/hazard_map/city_pages/Mahesana">Mahesana</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Udaipur">Udaipur</a></td>
+<td><a href="/hazard_map/city_pages/Udaipur">Udaipur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bangalore">Bangalore</a></td>
+<td><a href="/hazard_map/city_pages/Bangalore">Bangalore</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mumbai">Mumbai</a></td>
+<td><a href="/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Pali">Pali</a></td>
+<td><a href="/hazard_map/city_pages/Pali">Pali</a></td>
 </tr>
 
 </table>

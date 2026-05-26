@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Siliguri">Siliguri</a></td>
+<td><a href="/hazard_map/city_pages/Siliguri">Siliguri</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhagalpur">Bhagalpur</a></td>
+<td><a href="/hazard_map/city_pages/Bhagalpur">Bhagalpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kishanganj">Kishanganj</a></td>
+<td><a href="/hazard_map/city_pages/Kishanganj">Kishanganj</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/English_Bazar">English Bazar</a></td>
+<td><a href="/hazard_map/city_pages/English_Bazar">English Bazar</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Purnia">Purnia</a></td>
+<td><a href="/hazard_map/city_pages/Purnia">Purnia</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Katihar">Katihar</a></td>
+<td><a href="/hazard_map/city_pages/Katihar">Katihar</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Baharampur">Baharampur</a></td>
+<td><a href="/hazard_map/city_pages/Baharampur">Baharampur</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jalpaiguri">Jalpaiguri</a></td>
+<td><a href="/hazard_map/city_pages/Jalpaiguri">Jalpaiguri</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Raiganj">Raiganj</a></td>
+<td><a href="/hazard_map/city_pages/Raiganj">Raiganj</a></td>
 </tr>
 
 </table>

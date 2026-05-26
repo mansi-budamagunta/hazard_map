@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Bhadrak">Bhadrak</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Durgapur">Durgapur</a></td>
+<td><a href="/hazard_map/city_pages/Durgapur">Durgapur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Asansol">Asansol</a></td>
+<td><a href="/hazard_map/city_pages/Asansol">Asansol</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/English_Bazar">English Bazar</a></td>
+<td><a href="/hazard_map/city_pages/English_Bazar">English Bazar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Raiganj">Raiganj</a></td>
+<td><a href="/hazard_map/city_pages/Raiganj">Raiganj</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Siliguri">Siliguri</a></td>
+<td><a href="/hazard_map/city_pages/Siliguri">Siliguri</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhagalpur">Bhagalpur</a></td>
+<td><a href="/hazard_map/city_pages/Bhagalpur">Bhagalpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Baranagar">Baranagar</a></td>
+<td><a href="/hazard_map/city_pages/Baranagar">Baranagar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bidhan_Nagar">Bidhan Nagar</a></td>
+<td><a href="/hazard_map/city_pages/Bidhan_Nagar">Bidhan Nagar</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Dhanbad">Dhanbad</a></td>
+<td><a href="/hazard_map/city_pages/Dhanbad">Dhanbad</a></td>
 </tr>
 
 </table>

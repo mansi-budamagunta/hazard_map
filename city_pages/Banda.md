@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Katihar">Katihar</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanpur">Kanpur</a></td>
+<td><a href="/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lucknow">Lucknow</a></td>
+<td><a href="/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jhansi">Jhansi</a></td>
+<td><a href="/hazard_map/city_pages/Jhansi">Jhansi</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mainpuri">Mainpuri</a></td>
+<td><a href="/hazard_map/city_pages/Mainpuri">Mainpuri</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Allahabad">Allahabad</a></td>
+<td><a href="/hazard_map/city_pages/Allahabad">Allahabad</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bareilly">Bareilly</a></td>
+<td><a href="/hazard_map/city_pages/Bareilly">Bareilly</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jabalpur">Jabalpur</a></td>
+<td><a href="/hazard_map/city_pages/Jabalpur">Jabalpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rae_Bareli">Rae Bareli</a></td>
+<td><a href="/hazard_map/city_pages/Rae_Bareli">Rae Bareli</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Varanasi">Varanasi</a></td>
+<td><a href="/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Satna">Satna</a></td>
+<td><a href="/hazard_map/city_pages/Satna">Satna</a></td>
 </tr>
 
 </table>

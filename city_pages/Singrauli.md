@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Amravati">Amravati</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mirzapur">Mirzapur</a></td>
+<td><a href="/hazard_map/city_pages/Mirzapur">Mirzapur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jabalpur">Jabalpur</a></td>
+<td><a href="/hazard_map/city_pages/Jabalpur">Jabalpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Varanasi">Varanasi</a></td>
+<td><a href="/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Allahabad">Allahabad</a></td>
+<td><a href="/hazard_map/city_pages/Allahabad">Allahabad</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lucknow">Lucknow</a></td>
+<td><a href="/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kota">Kota</a></td>
+<td><a href="/hazard_map/city_pages/Kota">Kota</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ambikapur">Ambikapur</a></td>
+<td><a href="/hazard_map/city_pages/Ambikapur">Ambikapur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Korba">Korba</a></td>
+<td><a href="/hazard_map/city_pages/Korba">Korba</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Satna">Satna</a></td>
+<td><a href="/hazard_map/city_pages/Satna">Satna</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhopal">Bhopal</a></td>
+<td><a href="/hazard_map/city_pages/Bhopal">Bhopal</a></td>
 </tr>
 
 </table>

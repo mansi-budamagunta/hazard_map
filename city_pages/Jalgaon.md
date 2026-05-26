@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Satara">Satara</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhusawal">Bhusawal</a></td>
+<td><a href="/hazard_map/city_pages/Bhusawal">Bhusawal</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Aurangabad">Aurangabad</a></td>
+<td><a href="/hazard_map/city_pages/Aurangabad">Aurangabad</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gondiya">Gondiya</a></td>
+<td><a href="/hazard_map/city_pages/Gondiya">Gondiya</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nagpur">Nagpur</a></td>
+<td><a href="/hazard_map/city_pages/Nagpur">Nagpur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Akola">Akola</a></td>
+<td><a href="/hazard_map/city_pages/Akola">Akola</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Parbhani">Parbhani</a></td>
+<td><a href="/hazard_map/city_pages/Parbhani">Parbhani</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Malegaon">Malegaon</a></td>
+<td><a href="/hazard_map/city_pages/Malegaon">Malegaon</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hyderabad">Hyderabad</a></td>
+<td><a href="/hazard_map/city_pages/Hyderabad">Hyderabad</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Raipur">Raipur</a></td>
+<td><a href="/hazard_map/city_pages/Raipur">Raipur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Surat">Surat</a></td>
+<td><a href="/hazard_map/city_pages/Surat">Surat</a></td>
 </tr>
 
 </table>

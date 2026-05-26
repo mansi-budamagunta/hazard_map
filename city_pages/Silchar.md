@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Hugli-Chinsurah">Hugli-Chi
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Guwahati">Guwahati</a></td>
+<td><a href="/hazard_map/city_pages/Guwahati">Guwahati</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Agartala">Agartala</a></td>
+<td><a href="/hazard_map/city_pages/Agartala">Agartala</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kolkata">Kolkata</a></td>
+<td><a href="/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Dimapur">Dimapur</a></td>
+<td><a href="/hazard_map/city_pages/Dimapur">Dimapur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Shillong">Shillong</a></td>
+<td><a href="/hazard_map/city_pages/Shillong">Shillong</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Aizawl">Aizawl</a></td>
+<td><a href="/hazard_map/city_pages/Aizawl">Aizawl</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Imphal">Imphal</a></td>
+<td><a href="/hazard_map/city_pages/Imphal">Imphal</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Dibrugarh">Dibrugarh</a></td>
+<td><a href="/hazard_map/city_pages/Dibrugarh">Dibrugarh</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ganganagar">Ganganagar</a></td>
+<td><a href="/hazard_map/city_pages/Ganganagar">Ganganagar</a></td>
 </tr>
 
 </table>

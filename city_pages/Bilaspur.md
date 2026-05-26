@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Tenali">Tenali</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Raipur">Raipur</a></td>
+<td><a href="/hazard_map/city_pages/Raipur">Raipur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Korba">Korba</a></td>
+<td><a href="/hazard_map/city_pages/Korba">Korba</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Raigarh">Raigarh</a></td>
+<td><a href="/hazard_map/city_pages/Raigarh">Raigarh</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nagpur">Nagpur</a></td>
+<td><a href="/hazard_map/city_pages/Nagpur">Nagpur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhopal">Bhopal</a></td>
+<td><a href="/hazard_map/city_pages/Bhopal">Bhopal</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ambikapur">Ambikapur</a></td>
+<td><a href="/hazard_map/city_pages/Ambikapur">Ambikapur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jamshedpur">Jamshedpur</a></td>
+<td><a href="/hazard_map/city_pages/Jamshedpur">Jamshedpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Durg">Durg</a></td>
+<td><a href="/hazard_map/city_pages/Durg">Durg</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhilai_Nagar">Bhilai Nagar</a></td>
+<td><a href="/hazard_map/city_pages/Bhilai_Nagar">Bhilai Nagar</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Sambalpur">Sambalpur</a></td>
+<td><a href="/hazard_map/city_pages/Sambalpur">Sambalpur</a></td>
 </tr>
 
 </table>

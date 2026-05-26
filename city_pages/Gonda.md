@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Amroha">Amroha</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gorakhpur">Gorakhpur</a></td>
+<td><a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lucknow">Lucknow</a></td>
+<td><a href="/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rampur">Rampur</a></td>
+<td><a href="/hazard_map/city_pages/Rampur">Rampur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Varanasi">Varanasi</a></td>
+<td><a href="/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Sitapur">Sitapur</a></td>
+<td><a href="/hazard_map/city_pages/Sitapur">Sitapur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Basti">Basti</a></td>
+<td><a href="/hazard_map/city_pages/Basti">Basti</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanpur">Kanpur</a></td>
+<td><a href="/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bagaha">Bagaha</a></td>
+<td><a href="/hazard_map/city_pages/Bagaha">Bagaha</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jaunpur">Jaunpur</a></td>
+<td><a href="/hazard_map/city_pages/Jaunpur">Jaunpur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Allahabad">Allahabad</a></td>
+<td><a href="/hazard_map/city_pages/Allahabad">Allahabad</a></td>
 </tr>
 
 </table>

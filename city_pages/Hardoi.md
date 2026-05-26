@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Bidhan_Nagar">Bidhan Nagar
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Shahjahanpur">Shahjahanpur</a></td>
+<td><a href="/hazard_map/city_pages/Shahjahanpur">Shahjahanpur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lucknow">Lucknow</a></td>
+<td><a href="/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bareilly">Bareilly</a></td>
+<td><a href="/hazard_map/city_pages/Bareilly">Bareilly</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Lakhimpur">Lakhimpur</a></td>
+<td><a href="/hazard_map/city_pages/Lakhimpur">Lakhimpur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanpur">Kanpur</a></td>
+<td><a href="/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Sitapur">Sitapur</a></td>
+<td><a href="/hazard_map/city_pages/Sitapur">Sitapur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gorakhpur">Gorakhpur</a></td>
+<td><a href="/hazard_map/city_pages/Gorakhpur">Gorakhpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rampur">Rampur</a></td>
+<td><a href="/hazard_map/city_pages/Rampur">Rampur</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Firozabad">Firozabad</a></td>
+<td><a href="/hazard_map/city_pages/Firozabad">Firozabad</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Moradabad">Moradabad</a></td>
+<td><a href="/hazard_map/city_pages/Moradabad">Moradabad</a></td>
 </tr>
 
 </table>

@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Patan">Patan</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bikaner">Bikaner</a></td>
+<td><a href="/hazard_map/city_pages/Bikaner">Bikaner</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jaipur">Jaipur</a></td>
+<td><a href="/hazard_map/city_pages/Jaipur">Jaipur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ahmedabad">Ahmedabad</a></td>
+<td><a href="/hazard_map/city_pages/Ahmedabad">Ahmedabad</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mumbai">Mumbai</a></td>
+<td><a href="/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Pali">Pali</a></td>
+<td><a href="/hazard_map/city_pages/Pali">Pali</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ajmer">Ajmer</a></td>
+<td><a href="/hazard_map/city_pages/Ajmer">Ajmer</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hisar">Hisar</a></td>
+<td><a href="/hazard_map/city_pages/Hisar">Hisar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Palanpur">Palanpur</a></td>
+<td><a href="/hazard_map/city_pages/Palanpur">Palanpur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gandhidham">Gandhidham</a></td>
+<td><a href="/hazard_map/city_pages/Gandhidham">Gandhidham</a></td>
 </tr>
 
 </table>

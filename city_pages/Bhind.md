@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Loni">Loni</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jhansi">Jhansi</a></td>
+<td><a href="/hazard_map/city_pages/Jhansi">Jhansi</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Etawah">Etawah</a></td>
+<td><a href="/hazard_map/city_pages/Etawah">Etawah</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Kanpur">Kanpur</a></td>
+<td><a href="/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gwalior">Gwalior</a></td>
+<td><a href="/hazard_map/city_pages/Gwalior">Gwalior</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Agra">Agra</a></td>
+<td><a href="/hazard_map/city_pages/Agra">Agra</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Indore">Indore</a></td>
+<td><a href="/hazard_map/city_pages/Indore">Indore</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Aligarh">Aligarh</a></td>
+<td><a href="/hazard_map/city_pages/Aligarh">Aligarh</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Firozabad">Firozabad</a></td>
+<td><a href="/hazard_map/city_pages/Firozabad">Firozabad</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Shivpuri">Shivpuri</a></td>
+<td><a href="/hazard_map/city_pages/Shivpuri">Shivpuri</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ujjain">Ujjain</a></td>
+<td><a href="/hazard_map/city_pages/Ujjain">Ujjain</a></td>
 </tr>
 
 </table>

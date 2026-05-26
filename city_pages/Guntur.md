@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Mangalore">Mangalore</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Vijayawada">Vijayawada</a></td>
+<td><a href="/hazard_map/city_pages/Vijayawada">Vijayawada</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Tenali">Tenali</a></td>
+<td><a href="/hazard_map/city_pages/Tenali">Tenali</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hyderabad">Hyderabad</a></td>
+<td><a href="/hazard_map/city_pages/Hyderabad">Hyderabad</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Visakhapatnam">Visakhapatnam</a></td>
+<td><a href="/hazard_map/city_pages/Visakhapatnam">Visakhapatnam</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Narasaraopet">Narasaraopet</a></td>
+<td><a href="/hazard_map/city_pages/Narasaraopet">Narasaraopet</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Chilakaluripet">Chilakaluripet</a></td>
+<td><a href="/hazard_map/city_pages/Chilakaluripet">Chilakaluripet</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rajahmundry">Rajahmundry</a></td>
+<td><a href="/hazard_map/city_pages/Rajahmundry">Rajahmundry</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Nandyal">Nandyal</a></td>
+<td><a href="/hazard_map/city_pages/Nandyal">Nandyal</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Gudivada">Gudivada</a></td>
+<td><a href="/hazard_map/city_pages/Gudivada">Gudivada</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Eluru">Eluru</a></td>
+<td><a href="/hazard_map/city_pages/Eluru">Eluru</a></td>
 </tr>
 
 </table>

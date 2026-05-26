@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Mandya">Mandya</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bangalore">Bangalore</a></td>
+<td><a href="/hazard_map/city_pages/Bangalore">Bangalore</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Tiruchirappalli">Tiruchirappalli</a></td>
+<td><a href="/hazard_map/city_pages/Tiruchirappalli">Tiruchirappalli</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Tirupati">Tirupati</a></td>
+<td><a href="/hazard_map/city_pages/Tirupati">Tirupati</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Mumbai">Mumbai</a></td>
+<td><a href="/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Coimbatore">Coimbatore</a></td>
+<td><a href="/hazard_map/city_pages/Coimbatore">Coimbatore</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Madurai">Madurai</a></td>
+<td><a href="/hazard_map/city_pages/Madurai">Madurai</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Salem">Salem</a></td>
+<td><a href="/hazard_map/city_pages/Salem">Salem</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Avadi">Avadi</a></td>
+<td><a href="/hazard_map/city_pages/Avadi">Avadi</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Tiruvottiyur">Tiruvottiyur</a></td>
+<td><a href="/hazard_map/city_pages/Tiruvottiyur">Tiruvottiyur</a></td>
 </tr>
 
 </table>

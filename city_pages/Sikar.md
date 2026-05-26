@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Jammu">Jammu</a>')
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jaipur">Jaipur</a></td>
+<td><a href="/hazard_map/city_pages/Jaipur">Jaipur</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rewari">Rewari</a></td>
+<td><a href="/hazard_map/city_pages/Rewari">Rewari</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jhunjhunun">Jhunjhunun</a></td>
+<td><a href="/hazard_map/city_pages/Jhunjhunun">Jhunjhunun</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hisar">Hisar</a></td>
+<td><a href="/hazard_map/city_pages/Hisar">Hisar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Churu">Churu</a></td>
+<td><a href="/hazard_map/city_pages/Churu">Churu</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bikaner">Bikaner</a></td>
+<td><a href="/hazard_map/city_pages/Bikaner">Bikaner</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hanumangarh">Hanumangarh</a></td>
+<td><a href="/hazard_map/city_pages/Hanumangarh">Hanumangarh</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Ajmer">Ajmer</a></td>
+<td><a href="/hazard_map/city_pages/Ajmer">Ajmer</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Alwar">Alwar</a></td>
+<td><a href="/hazard_map/city_pages/Alwar">Alwar</a></td>
 </tr>
 
 </table>

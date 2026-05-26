@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="/hazard_map/city_pages/Maunath_Bhanjan">Maunath B
 
 <tr>
 <td>1</td>
-<td><a href="/hazard_map/city_pages/city_pages/Rohtak">Rohtak</a></td>
+<td><a href="/hazard_map/city_pages/Rohtak">Rohtak</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="/hazard_map/city_pages/city_pages/Delhi">Delhi</a></td>
+<td><a href="/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="/hazard_map/city_pages/city_pages/Jind">Jind</a></td>
+<td><a href="/hazard_map/city_pages/Jind">Jind</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bathinda">Bathinda</a></td>
+<td><a href="/hazard_map/city_pages/Bathinda">Bathinda</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="/hazard_map/city_pages/city_pages/Bhiwani">Bhiwani</a></td>
+<td><a href="/hazard_map/city_pages/Bhiwani">Bhiwani</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="/hazard_map/city_pages/city_pages/Hisar">Hisar</a></td>
+<td><a href="/hazard_map/city_pages/Hisar">Hisar</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="/hazard_map/city_pages/city_pages/Panipat">Panipat</a></td>
+<td><a href="/hazard_map/city_pages/Panipat">Panipat</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="/hazard_map/city_pages/city_pages/Faridabad">Faridabad</a></td>
+<td><a href="/hazard_map/city_pages/Faridabad">Faridabad</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="/hazard_map/city_pages/city_pages/Meerut">Meerut</a></td>
+<td><a href="/hazard_map/city_pages/Meerut">Meerut</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="/hazard_map/city_pages/city_pages/Firozpur">Firozpur</a></td>
+<td><a href="/hazard_map/city_pages/Firozpur">Firozpur</a></td>
 </tr>
 
 </table>
