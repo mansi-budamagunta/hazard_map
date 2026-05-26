@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ra
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Vellore">Vellore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Vellore">Vellore</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tirupati">Tirupati</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tirupati">Tirupati</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ambur">Ambur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ambur">Ambur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chittoor">Chittoor</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chittoor">Chittoor</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bangalore">Bangalore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bangalore">Bangalore</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chennai">Chennai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Pondicherry">Pondicherry</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Pondicherry">Pondicherry</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Cuddalore_Port">Cuddalore Port</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Cuddalore_Port">Cuddalore Port</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Visakhapatnam">Visakhapatnam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Visakhapatnam">Visakhapatnam</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Hyderabad">Hyderabad</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Hyderabad">Hyderabad</a></td>
 </tr>
 
 </table>

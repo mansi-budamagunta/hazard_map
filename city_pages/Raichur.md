@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Pa
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Hyderabad">Hyderabad</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Hyderabad">Hyderabad</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Solapur">Solapur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Solapur">Solapur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bidar">Bidar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bidar">Bidar</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bijapur">Bijapur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bijapur">Bijapur</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bangalore">Bangalore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bangalore">Bangalore</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Adoni">Adoni</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Adoni">Adoni</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Guntakal">Guntakal</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Guntakal">Guntakal</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nandyal">Nandyal</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nandyal">Nandyal</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Machilipatnam">Machilipatnam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Machilipatnam">Machilipatnam</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kadapa">Kadapa</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kadapa">Kadapa</a></td>
 </tr>
 
 </table>

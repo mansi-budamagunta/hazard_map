@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/De
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bagaha">Bagaha</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bagaha">Bagaha</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Varanasi">Varanasi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Lakhimpur">Lakhimpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Lakhimpur">Lakhimpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Lucknow">Lucknow</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Mumbai">Mumbai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Siwan">Siwan</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Siwan">Siwan</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Basti">Basti</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Basti">Basti</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kanpur">Kanpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chapra">Chapra</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chapra">Chapra</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Deoria">Deoria</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Deoria">Deoria</a></td>
 </tr>
 
 </table>

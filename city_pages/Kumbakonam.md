@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Na
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tiruchirappalli">Tiruchirappalli</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tiruchirappalli">Tiruchirappalli</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Thanjavur">Thanjavur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Thanjavur">Thanjavur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bangalore">Bangalore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bangalore">Bangalore</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Coimbatore">Coimbatore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Coimbatore">Coimbatore</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Madurai">Madurai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Madurai">Madurai</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Salem">Salem</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Salem">Salem</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tiruppur">Tiruppur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tiruppur">Tiruppur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chennai">Chennai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Erode">Erode</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Erode">Erode</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Pondicherry">Pondicherry</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Pondicherry">Pondicherry</a></td>
 </tr>
 
 </table>

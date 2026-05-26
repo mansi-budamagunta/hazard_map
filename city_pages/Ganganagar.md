@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ah
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bathinda">Bathinda</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bathinda">Bathinda</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Agartala">Agartala</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Agartala">Agartala</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Aizawl">Aizawl</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Aizawl">Aizawl</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Abohar">Abohar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Abohar">Abohar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Patiala">Patiala</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Patiala">Patiala</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Imphal">Imphal</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Imphal">Imphal</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kolkata">Kolkata</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Silchar">Silchar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Silchar">Silchar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Barnala">Barnala</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Barnala">Barnala</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ambala">Ambala</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ambala">Ambala</a></td>
 </tr>
 
 </table>

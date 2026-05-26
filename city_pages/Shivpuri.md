@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Si
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Jhansi">Jhansi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Jhansi">Jhansi</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Guna">Guna</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Guna">Guna</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ujjain">Ujjain</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ujjain">Ujjain</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Gwalior">Gwalior</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Gwalior">Gwalior</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bhopal">Bhopal</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bhopal">Bhopal</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kota">Kota</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kota">Kota</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kanpur">Kanpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kanpur">Kanpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Indore">Indore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Indore">Indore</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nagda">Nagda</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nagda">Nagda</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ratlam">Ratlam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ratlam">Ratlam</a></td>
 </tr>
 
 </table>

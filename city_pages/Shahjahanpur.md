@@ -4,114 +4,114 @@ title: "Outbreak location: Shahjahanpur"
 ---
 <div class="flex-container">
 <div class="flex-item-left" id="mapid">
-<script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
+<script src="https://mansi-budamagunta.github.io/hazard_map/load_map.js"></script>
 
 <script>
 var marker_outbreak = L.marker([27.912633, 79.746563],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Shahjahanpur").openTooltip();
 
 var circle_1 = L.circle([27.504639, 80.829466], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 92122, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Sitapur<br>rank: 1<br>hazard index: 0.092123")
-circle_1.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Sitapur">Sitapur</a>')
+circle_1.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Sitapur">Sitapur</a>')
 
 var circle_2 = L.circle([28.457876, 79.405571], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 71125, "stroke": true, "weight": 3}).addTo(map);
 circle_2.bindTooltip("Bareilly<br>rank: 2<br>hazard index: 0.071126")
-circle_2.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bareilly">Bareilly</a>')
+circle_2.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Bareilly">Bareilly</a>')
 
 var circle_3 = L.circle([26.838100, 80.934600], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 56713, "stroke": true, "weight": 3}).addTo(map);
 circle_3.bindTooltip("Lucknow<br>rank: 3<br>hazard index: 0.056714")
-circle_3.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Lucknow">Lucknow</a>')
+circle_3.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Lucknow">Lucknow</a>')
 
 var circle_4 = L.circle([27.338577, 80.097526], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 29449, "stroke": true, "weight": 3}).addTo(map);
 circle_4.bindTooltip("Hardoi<br>rank: 4<br>hazard index: 0.029449")
-circle_4.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Hardoi">Hardoi</a>')
+circle_4.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Hardoi">Hardoi</a>')
 
 var circle_5 = L.circle([26.460914, 80.321759], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17482, "stroke": true, "weight": 3}).addTo(map);
 circle_5.bindTooltip("Kanpur<br>rank: 5<br>hazard index: 0.017483")
-circle_5.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Kanpur">Kanpur</a>')
+circle_5.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Kanpur">Kanpur</a>')
 
 var circle_6 = L.circle([28.863842, 78.805778], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11617, "stroke": true, "weight": 3}).addTo(map);
 circle_6.bindTooltip("Moradabad<br>rank: 6<br>hazard index: 0.011618")
-circle_6.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Moradabad">Moradabad</a>')
+circle_6.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Moradabad">Moradabad</a>')
 
 var circle_7 = L.circle([28.794068, 79.185930], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10175, "stroke": true, "weight": 3}).addTo(map);
 circle_7.bindTooltip("Rampur<br>rank: 7<br>hazard index: 0.010175")
-circle_7.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rampur">Rampur</a>')
+circle_7.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Rampur">Rampur</a>')
 
 var circle_8 = L.circle([27.175255, 78.009816], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9653, "stroke": true, "weight": 3}).addTo(map);
 circle_8.bindTooltip("Agra<br>rank: 8<br>hazard index: 0.009653")
-circle_8.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Agra">Agra</a>')
+circle_8.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Agra">Agra</a>')
 
 var circle_9 = L.circle([28.651718, 77.221939], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6245, "stroke": true, "weight": 3}).addTo(map);
 circle_9.bindTooltip("Delhi<br>rank: 9<br>hazard index: 0.006246")
-circle_9.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Delhi">Delhi</a>')
+circle_9.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Delhi">Delhi</a>')
 
 var circle_10 = L.circle([27.876990, 78.137290], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5349, "stroke": true, "weight": 3}).addTo(map);
 circle_10.bindTooltip("Aligarh<br>rank: 10<br>hazard index: 0.005350")
-circle_10.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Aligarh">Aligarh</a>')
+circle_10.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Aligarh">Aligarh</a>')
 
 var circle_11 = L.circle([26.671329, 83.364583], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5293, "stroke": true, "weight": 3}).addTo(map);
 circle_11.bindTooltip("Gorakhpur<br>rank: 11<br>hazard index: 0.005293")
-circle_11.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Gorakhpur">Gorakhpur</a>')
+circle_11.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Gorakhpur">Gorakhpur</a>')
 
 var circle_12 = L.circle([27.177366, 78.389912], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3701, "stroke": true, "weight": 3}).addTo(map);
 circle_12.bindTooltip("Firozabad<br>rank: 12<br>hazard index: 0.003702")
-circle_12.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Firozabad">Firozabad</a>')
+circle_12.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Firozabad">Firozabad</a>')
 
 var circle_13 = L.circle([28.495208, 80.107541], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3562, "stroke": true, "weight": 3}).addTo(map);
 circle_13.bindTooltip("Pilibhit<br>rank: 13<br>hazard index: 0.003562")
-circle_13.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Pilibhit">Pilibhit</a>')
+circle_13.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Pilibhit">Pilibhit</a>')
 
 var circle_14 = L.circle([29.214460, 79.527918], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3058, "stroke": true, "weight": 3}).addTo(map);
 circle_14.bindTooltip("Haldwani<br>rank: 14<br>hazard index: 0.003058")
-circle_14.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Haldwani">Haldwani</a>')
+circle_14.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Haldwani">Haldwani</a>')
 
 var circle_15 = L.circle([30.909016, 75.851601], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2766, "stroke": true, "weight": 3}).addTo(map);
 circle_15.bindTooltip("Ludhiana<br>rank: 15<br>hazard index: 0.002767")
-circle_15.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Ludhiana">Ludhiana</a>')
+circle_15.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ludhiana">Ludhiana</a>')
 
 var circle_16 = L.circle([27.733696, 81.477321], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2488, "stroke": true, "weight": 3}).addTo(map);
 circle_16.bindTooltip("Bahraich<br>rank: 16<br>hazard index: 0.002488")
-circle_16.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bahraich">Bahraich</a>')
+circle_16.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Bahraich">Bahraich</a>')
 
 var circle_17 = L.circle([28.969640, 79.379747], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2394, "stroke": true, "weight": 3}).addTo(map);
 circle_17.bindTooltip("Rudrapur City<br>rank: 17<br>hazard index: 0.002395")
-circle_17.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rudrapur_City">Rudrapur City</a>')
+circle_17.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Rudrapur_City">Rudrapur City</a>')
 
 var circle_18 = L.circle([25.335649, 83.007629], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2274, "stroke": true, "weight": 3}).addTo(map);
 circle_18.bindTooltip("Varanasi<br>rank: 18<br>hazard index: 0.002274")
-circle_18.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Varanasi">Varanasi</a>')
+circle_18.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Varanasi">Varanasi</a>')
 
 var circle_19 = L.circle([29.988077, 77.508130], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2224, "stroke": true, "weight": 3}).addTo(map);
 circle_19.bindTooltip("Saharanpur<br>rank: 19<br>hazard index: 0.002224")
-circle_19.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Saharanpur">Saharanpur</a>')
+circle_19.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Saharanpur">Saharanpur</a>')
 
 var circle_20 = L.circle([26.250000, 81.250000], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1750, "stroke": true, "weight": 3}).addTo(map);
 circle_20.bindTooltip("Rae Bareli<br>rank: 20<br>hazard index: 0.001750")
-circle_20.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rae_Bareli">Rae Bareli</a>')
+circle_20.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Rae_Bareli">Rae Bareli</a>')
 
 var circle_21 = L.circle([27.109667, 81.918329], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1656, "stroke": true, "weight": 3}).addTo(map);
 circle_21.bindTooltip("Gonda<br>rank: 21<br>hazard index: 0.001656")
-circle_21.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Gonda">Gonda</a>')
+circle_21.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Gonda">Gonda</a>')
 
 var circle_22 = L.circle([29.000653, 77.768229], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1651, "stroke": true, "weight": 3}).addTo(map);
 circle_22.bindTooltip("Meerut<br>rank: 22<br>hazard index: 0.001651")
-circle_22.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Meerut">Meerut</a>')
+circle_22.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Meerut">Meerut</a>')
 
 var circle_23 = L.circle([26.575504, 80.613762], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1648, "stroke": true, "weight": 3}).addTo(map);
 circle_23.bindTooltip("Unnao<br>rank: 23<br>hazard index: 0.001649")
-circle_23.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Unnao">Unnao</a>')
+circle_23.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Unnao">Unnao</a>')
 
 var circle_24 = L.circle([25.438130, 81.833800], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1592, "stroke": true, "weight": 3}).addTo(map);
 circle_24.bindTooltip("Allahabad<br>rank: 24<br>hazard index: 0.001593")
-circle_24.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Allahabad">Allahabad</a>')
+circle_24.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Allahabad">Allahabad</a>')
 
 var circle_25 = L.circle([22.541418, 88.357691], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1500, "stroke": true, "weight": 3}).addTo(map);
 circle_25.bindTooltip("Kolkata<br>rank: 25<br>hazard index: 0.001501")
-circle_25.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a>')
+circle_25.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Kolkata">Kolkata</a>')
 
 var circle_26 = L.circle([27.437194, 79.489129], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1458, "stroke": true, "weight": 3}).addTo(map);
 circle_26.bindTooltip("Farrukhabad<br>rank: 26<br>hazard index: 0.001459")
-circle_26.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Farrukhabad">Farrukhabad</a>')
+circle_26.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Farrukhabad">Farrukhabad</a>')
 
 var circle_27 = L.circle([27.985060, 80.753845], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1438, "stroke": true, "weight": 3}).addTo(map);
 circle_27.bindTooltip("Lakhimpur<br>rank: 27<br>hazard index: 0.001439")

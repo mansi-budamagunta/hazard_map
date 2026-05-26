@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Kh
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kota">Kota</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kota">Kota</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Dhaulpur">Dhaulpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Dhaulpur">Dhaulpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bhopal">Bhopal</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bhopal">Bhopal</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Guna">Guna</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Guna">Guna</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Sawai_Madhopur">Sawai Madhopur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Sawai_Madhopur">Sawai Madhopur</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Jaipur">Jaipur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Jaipur">Jaipur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ratlam">Ratlam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ratlam">Ratlam</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Jhansi">Jhansi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Jhansi">Jhansi</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nagda">Nagda</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nagda">Nagda</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Jabalpur">Jabalpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Jabalpur">Jabalpur</a></td>
 </tr>
 
 </table>

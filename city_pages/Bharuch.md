@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/My
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ahmedabad">Ahmedabad</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ahmedabad">Ahmedabad</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Surat">Surat</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Surat">Surat</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Vadodara">Vadodara</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Vadodara">Vadodara</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Mumbai">Mumbai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bhavnagar">Bhavnagar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bhavnagar">Bhavnagar</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nadiad">Nadiad</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nadiad">Nadiad</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Rajkot">Rajkot</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Rajkot">Rajkot</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Anand">Anand</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Anand">Anand</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Delhi">Delhi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Gandhinagar">Gandhinagar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Gandhinagar">Gandhinagar</a></td>
 </tr>
 
 </table>

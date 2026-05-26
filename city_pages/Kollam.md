@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ra
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Thiruvananthapuram">Thiruvananthapuram</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Thiruvananthapuram">Thiruvananthapuram</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Thrissur">Thrissur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Thrissur">Thrissur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nagercoil">Nagercoil</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nagercoil">Nagercoil</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chennai">Chennai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tirunelveli">Tirunelveli</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tirunelveli">Tirunelveli</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kochi">Kochi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kochi">Kochi</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kozhikode">Kozhikode</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kozhikode">Kozhikode</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Alappuzha">Alappuzha</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Alappuzha">Alappuzha</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Mumbai">Mumbai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Mangalore">Mangalore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Mangalore">Mangalore</a></td>
 </tr>
 
 </table>

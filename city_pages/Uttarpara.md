@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Po
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kolkata">Kolkata</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Serampore">Serampore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Serampore">Serampore</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Rishra">Rishra</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Rishra">Rishra</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Baidyabati">Baidyabati</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Baidyabati">Baidyabati</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Hugli-Chinsurah">Hugli-Chinsurah</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Hugli-Chinsurah">Hugli-Chinsurah</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chandan_Nagar">Chandan Nagar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chandan_Nagar">Chandan Nagar</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kalyani">Kalyani</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kalyani">Kalyani</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Durgapur">Durgapur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Durgapur">Durgapur</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Asansol">Asansol</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Asansol">Asansol</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Barddhaman">Barddhaman</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Barddhaman">Barddhaman</a></td>
 </tr>
 
 </table>

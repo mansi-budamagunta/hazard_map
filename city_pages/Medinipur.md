@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ka
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bankura">Bankura</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bankura">Bankura</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kolkata">Kolkata</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kharagpur">Kharagpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kharagpur">Kharagpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Purulia">Purulia</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Purulia">Purulia</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Patna">Patna</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Patna">Patna</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Asansol">Asansol</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Asansol">Asansol</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Varanasi">Varanasi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Allahabad">Allahabad</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Allahabad">Allahabad</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Haldia">Haldia</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Haldia">Haldia</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ranchi">Ranchi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ranchi">Ranchi</a></td>
 </tr>
 
 </table>

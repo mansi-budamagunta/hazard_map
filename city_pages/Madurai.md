@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Ja
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tirunelveli">Tirunelveli</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tirunelveli">Tirunelveli</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Coimbatore">Coimbatore</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Coimbatore">Coimbatore</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Chennai">Chennai</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Tiruchirappalli">Tiruchirappalli</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Tiruchirappalli">Tiruchirappalli</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Rajapalayam">Rajapalayam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Rajapalayam">Rajapalayam</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Thiruvananthapuram">Thiruvananthapuram</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Thiruvananthapuram">Thiruvananthapuram</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Dindigul">Dindigul</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Dindigul">Dindigul</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Thoothukudi">Thoothukudi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Thoothukudi">Thoothukudi</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Nagercoil">Nagercoil</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Nagercoil">Nagercoil</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Kollam">Kollam</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Kollam">Kollam</a></td>
 </tr>
 
 </table>

@@ -421,52 +421,52 @@ circle_100.bindPopup('<a href="https://mansi-budamagunta.github.io/hazard_map/Im
 
 <tr>
 <td>1</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Bathinda">Bathinda</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Bathinda">Bathinda</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Delhi">Delhi</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Delhi">Delhi</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Abohar">Abohar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Abohar">Abohar</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Hisar">Hisar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Hisar">Hisar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Ludhiana">Ludhiana</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Ludhiana">Ludhiana</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Firozpur">Firozpur</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Firozpur">Firozpur</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Hanumangarh">Hanumangarh</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Hanumangarh">Hanumangarh</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Amritsar">Amritsar</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Amritsar">Amritsar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Sirsa">Sirsa</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Sirsa">Sirsa</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><a href="https://mansi-budamagunta.github.io/hazard_map/Barnala">Barnala</a></td>
+<td><a href="https://mansi-budamagunta.github.io/hazard_map/city_pages/Barnala">Barnala</a></td>
 </tr>
 
 </table>
